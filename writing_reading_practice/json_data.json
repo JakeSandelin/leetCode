@@ -1,0 +1,18 @@
+  [
+    {
+      "customer_id": "C001",
+      "customer_name": "Alice",
+      "orders": [
+        {"product_id": "P100", "product_name": "Widget", "quantity": 2, "price": 10.0},
+        {"product_id": "P101", "product_name": "Gadget", "quantity": 1, "price": 15.5}
+      ]
+    },
+    {
+      "customer_id": "C002",
+      "customer_name": "Bob",
+      "orders": [
+        {"product_id": "P100", "product_name": "Widget", "quantity": 1, "price": 10.0},
+        {"product_id": "P102", "product_name": "Thingamajig", "quantity": 3, "price": 7.0}
+      ]
+    }
+  ]
